@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AayushSagar
-- 👀 I’m interested in embedded systems
+- 👀 I’m interested in Embedded Systems, Machine Learning
 - 🌱 I’m currently learning C, python and HTML
 - 💞️ I’m looking to collaborate on front end projects
 - :calling: reach out to me on aayushsag30@gmail.com
